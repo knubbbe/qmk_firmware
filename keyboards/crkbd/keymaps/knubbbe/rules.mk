@@ -1,4 +1,6 @@
 MOUSEKEY_ENABLE = yes     # Mouse keys
+REPEAT_KEY_ENABLE = yes
+CAPS_WORD_ENABLE = yes
 VIA_ENABLE = no
 LTO_ENABLE = yes
 
